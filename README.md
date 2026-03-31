@@ -1,16 +1,21 @@
-## Hi there 👋
+# **Education**
 
-<!--
-**Bloxodav/Bloxodav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## National Children's Technopark
+Project: 'Medical Laboratory' -Educational medical VR simulator where you print organs and assemble a human piece by piece.\
+[Link to Repository](---)\
+(2023)
 
-Here are some ideas to get you started:
+## National Children's Technopark Remote Shift
+Project: 'MAZ' - Educational VR driving simulator where you operate a MAZ truck using realistic cockpit controls and full VR interactions.\
+[Link to Repository](---)\
+(2023)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Belarusian State University of Informatics and Radioelectronics
+Faculty of Information Technologies and Control\
+Information Systems and Technologies (in game industry)\
+(2024 - Present)
+
+# **Contacts**
+
+Telegram: @WiseMysticalStanislau\
+E-mail: stasikzhuravel@gmail.com
