@@ -3,7 +3,6 @@
 ## Unity Developer
 Middle Unity Developer with 3+ years of experience in game development.  
 Focused on gameplay systems, UI, and interactive mechanics.  
-Experienced in both 2D and VR projects.
 
 ## 🛠 Tech Stack
 
